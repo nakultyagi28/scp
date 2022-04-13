@@ -1,0 +1,6 @@
+{
+  "mongoURI":
+    "mongodb+srv://vishal:vishalMongodb@vishalmongodb.o6sda.mongodb.net/vishalMongodb?retryWrites=true&w=majority"
+}
+
+

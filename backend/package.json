@@ -1,0 +1,33 @@
+{
+  "name": "mern_a_to_z",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "app": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nurislam03/MERN_A_to_Z.git"
+  },
+  "author": "Nakul/Aditya Tyagi",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.1113.0",
+    "bcrypt": "^5.0.1",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "config": "^3.1.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.13.14",
+    "validation": "0.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
